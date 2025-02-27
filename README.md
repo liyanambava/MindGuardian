@@ -1,4 +1,3 @@
-# MindGuardian
 # MindGuardian Chatbot
 
 MindGuardian is a mental health counseling chatbot powered by Groq's LLM, Pinecone vector search, and Langchain. It provides users with expert mental health support by understanding their queries, retrieving relevant context, and offering thoughtful, contextual responses.
